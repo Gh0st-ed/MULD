@@ -25,7 +25,7 @@
 ***
 >> ![gd_predmety](gd_predmety.png)
 ***
->> ![logo_cernobile](logo.png)
+>> ![logo_cernobile](Logo.png)
 ***
 >> ![logo_barevne](logo_vdf.png)
 ***
